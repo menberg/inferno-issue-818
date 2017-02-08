@@ -12,3 +12,6 @@ Steps to reproduce:
 This leads to "Uncaught TypeError: Cannot set property createElement of #\<Object> which has only a getter" (patch.dev.js:179)
 
 Check https://github.com/infernojs/inferno/issues/818 for more information.
+
+<img src="https://raw.githubusercontent.com/menberg/inferno-issue-818/master/debugging/bug-report.png">
+<img src="https://raw.githubusercontent.com/menberg/inferno-issue-818/master/debugging/bug-report2.png">
